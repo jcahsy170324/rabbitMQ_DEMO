@@ -11,6 +11,7 @@
     </parent>
     <modules>
         <module>publisher</module>
+        <module>consumer</module>
     </modules>
     <groupId>org.example</groupId>
     <artifactId>rabbit_project</artifactId>
