@@ -8,6 +8,7 @@ public class PublisherApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PublisherApplication.class, args);
+        System.out.println("run success");
     }
 
 }

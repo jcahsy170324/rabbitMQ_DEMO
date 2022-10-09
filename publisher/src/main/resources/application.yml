@@ -1,10 +1,10 @@
 spring:
   rabbitmq:
     host: 81.69.193.138
-    username: guest
-    password: guest
+    username: root
+    password: 123456
     port: 5672
-    virtual-host: guest
+    virtual-host: /
     publisher-confirm-type: correlated
     publisher-returns: true
 
